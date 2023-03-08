@@ -8,6 +8,10 @@
 
 ## Realizados
 
+##### 07/03/2023
+- [SEPB-601] Configurações clone fluxo local
+- [SEPB-589] Solicitar a desativação no ZABBIX do Sinapse.PRD API Fluxo-Base-Analitica
+
 ##### 06/03/2023
 - [Template Node/TypeScript] Conclusão da issue #1 
 - [SEPB-595] Abrir chamado solicitando a criação das duas HRs do Campanha no SINAPSE_NEW_PRD
